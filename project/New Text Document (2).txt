@@ -1,0 +1,14 @@
+user
+http://localhost:7000/addUser
+http://localhost:7000/sign_In
+http://localhost:7000/updateUser/
+http://localhost:7000/deleteUser/
+teacher
+http://localhost:7000/addTeacher
+http://localhost:7000/sign_inTeacher
+add corse
+http://localhost:7000/addBlog
+http://localhost:7000/deleteCorse/
+admin
+http://localhost:7000/adminSignIn
+http://localhost:7000/adminSignUp
